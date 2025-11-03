@@ -5,6 +5,7 @@ main()
 {
 int i,j,k,l;
 clrscr();
+    
 
     for(i=0;i<=4;i++)                // primary loop
     {
