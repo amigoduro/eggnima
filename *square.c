@@ -1,4 +1,4 @@
-#include<studio.h>            //header file for c language
+#include<stdio.h>            //header file for c language
 #include<conio.h>             // this file inclues predefined function clrscr & getch
 
 main()
