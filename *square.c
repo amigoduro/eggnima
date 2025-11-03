@@ -15,5 +15,5 @@ clrscr();
       }
     printf("\n");
     }
-getch();
+getch();                        //THIS USE FOR FREEZZ OR IT WAIT FOR SUCH A COMMAND
 }
