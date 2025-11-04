@@ -11,9 +11,9 @@ clrscr();
     {
       for(j=0;j<=4;j++)                    // secondary loop
       {
-        printf("*");
+        printf("*");                     // concept is clear
       }
-    printf("\n");
+    printf("\n");                        
     }
 getch();                        //THIS USE FOR FREEZZ OR IT WAIT FOR SUCH A COMMAND
 }
