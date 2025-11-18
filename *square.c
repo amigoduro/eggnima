@@ -3,6 +3,7 @@
 
 main()
         {
+                
 int i,j,k,l;                    /// declaration of varible (in global formate)
                 
 clrscr();
