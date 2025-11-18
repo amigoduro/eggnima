@@ -2,7 +2,7 @@
 #include<conio.h>             // this file inclues predefined function clrscr & getch
 
 main()
-{
+        {
 int i,j,k,l;                    /// declaration of varible (in global formate)
 clrscr();
     
