@@ -1,7 +1,7 @@
 #include<stdio.h>            //header file for c language
 #include<conio.h>             // this file inclues predefined function clrscr & getch
 
-main()
+main() 
         { 
                 
 int i,j,k,l;                    /// declaration of varible (in global formate)
