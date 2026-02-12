@@ -19,3 +19,4 @@ clrscr();
     }
 getch();                        //THIS USE FOR FREEZZ OR IT WAIT FOR SUCH A COMMAND
 }
+
