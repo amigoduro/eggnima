@@ -6,7 +6,7 @@ main()
                 
 int i,j,k,l;                    /// declaration of varible (in global formate)
                 
-clrscr();
+clrscr();   
     
 
     for(i=0;i<=4;i++)                // primary loop
