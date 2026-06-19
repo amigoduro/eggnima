@@ -2,7 +2,7 @@
 #include<conio.h>
 
 main()
-{  kjlinl
+{  k
      
 int a,b,c,d,e,f;   
 clrscr();
