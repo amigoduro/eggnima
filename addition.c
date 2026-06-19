@@ -2,7 +2,7 @@
 #include<conio.h>
 
 main()
-{  k
+{  
      
 int a,b,c,d,e,f;   
 clrscr();
