@@ -6,7 +6,7 @@ main()
      
 int a,b,c,d,e,f;   
 clrscr();
-printf("\nEnter 1st Number ");
+printf("\nEnter 1st Number ");   
 scanf("\n%d",&a);
 printf("\nEnter 2nd Number ");       
 scanf("\n%d",&b);
